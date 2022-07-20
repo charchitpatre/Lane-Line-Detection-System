@@ -49,3 +49,17 @@ Methodology
 
 
 ![image](https://user-images.githubusercontent.com/70278613/180045900-b609e041-2450-4ae8-bbaf-f6b735060c22.png)
+
+Self Driving Car is one of AI’s most innovative technologies. Self Driving Cars use lane-Line detection OpenCV features to detect lane of the roads and they are trained not to drive outside of the lane.
+
+However, there are going to be many scenarios where this solution will not work. For example, when there will be no lane markings, or when there is too much of traffic on the road, or detecting curved lane-line is behind the scope of this, the system will fail. There are more sophisticated methods to overcome such problems in lane-line detection.  This project is intended to only detect (mostly) straight lines. 
+
+Advantages
+1. This system ensures vehicle don’t move out of their lanes.
+2. Constant Speed and Efficient drive
+
+Disadvantages
+1. Requires active internet connection.
+2. Time to time updates.
+
+
