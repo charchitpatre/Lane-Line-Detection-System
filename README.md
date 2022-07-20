@@ -6,11 +6,10 @@ Step by Step architecture:
 1. Loading camera images.
 2. Applying Color Selection
 3. Applying Canny Edge Detection.
-
   3.1 Applying Gray Scaling to the images.
   3.2 Applying Gaussian Smoothing.
   3.3 Performing Canny Edge Detection.
-
+  
 4. Determining the Region of Interest.
 5. Applying Hough Transform.
 6. Average and Extrapolating the lane lines.
